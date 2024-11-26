@@ -1,19 +1,23 @@
-# E-book: InteligÃªncia Artificial e AutomaÃ§Ã£o
+# E-book: Inteligência Artificial e Automação
 
-Este repositÃ³rio contÃ©m o e-book **InteligÃªncia Artificial e AutomaÃ§Ã£o**, que explora os impactos da tecnologia nas Ãºltimas dÃ©cadas, destacando benefÃ­cios, desafios e exemplos prÃ¡ticos.
+Este repositório contém o e-book **Inteligência Artificial e Automação**, que explora os impactos da tecnologia nas últimas décadas, destacando benefícios, desafios e exemplos práticos.
 
 ## Estrutura do eBook
-- IntroduÃ§Ã£o
-- O que Ã© InteligÃªncia Artificial e AutomaÃ§Ã£o
+- Introdução
+- O que é Inteligência Artificial e Automação
 - Aplicativos Reais
-- BenefÃ­cios
-- Desafios e ControvÃ©rsias
+- Benefícios
+- Desafios e Controvérsias
 - Como se Preparar para o Futuro
-- ConclusÃ£o
+- Conclusão
 
 ## Como foi feito
-O eBook foi gerado utilizando prompt inicial no chatgGPT, lanaÃ§ando o promt na ferramenta gama.app, a qual reestruturou o conteÃºdo e fez inclusÃ£o de grÃ¡ficos e imagens relevantes.
+O eBook foi gerado utilizando a prompt chatGPT: (criar um texto para geração de um ebook; o tema será inteligencia artificial, automação, porém deverá ser um ebook de 8 paginas apenas).
 
+O texto gerado foi levado ao GAMA.APP, onde dei liberdade ao aplicativo para fazer alterações, poderia pedir para manter, o aplicativo gerou as imagens, o modelo e layout.
+
+## Contribuições
+Fiz o clone do diretório GitHub e gerei o redme e push no terminal do computador, com ajuda do chatGPT, já que não entendo nada de programação. 
 
 ---
-**Explore mais sobre IA e automaÃ§Ã£o!**
+**Explore mais sobre IA e automação!**
